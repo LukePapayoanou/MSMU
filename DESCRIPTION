@@ -1,13 +1,11 @@
 Package: MSMU
 Title: MSMU
 Version: 0.0.0.9000
-Authors@R: 
-    person("Luke", "Papayoanou", , "l.papayoanou@email.msmary.edu")
+Authors@R: person(given = "Luke", family = "Papayoanou", email = "l.papayoanou@email.msmary.edu", role = c("aut", "cre"))
 Description: This package includes fundamental data functions. The
     functions provided are MODE, estimate_mode, center_stats,
     position_stats, pct, spread_stats, kurt, skew and shape_stats
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
