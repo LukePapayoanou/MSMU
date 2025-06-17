@@ -3,3 +3,4 @@
 export(MODE)
 export(center_stats)
 export(estimate_mode)
+export(position_stats)
