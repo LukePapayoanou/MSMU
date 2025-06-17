@@ -3,6 +3,7 @@
 export(MODE)
 export(center_stats)
 export(estimate_mode)
+export(kurt)
 export(pct)
 export(position_stats)
 export(skew)
