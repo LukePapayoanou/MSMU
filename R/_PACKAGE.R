@@ -7,6 +7,6 @@
 #'
 #' @docType package
 #' @name MSMU
-#' @author Luke Papayoanou, Dr. McCurdy
-#' @keywords internal
+#' @author
+#' Luke Papayoanou, Dr. McCurdy
 "_PACKAGE"
