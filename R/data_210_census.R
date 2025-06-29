@@ -9,5 +9,3 @@
 #'   \item{salary}{Persons Yearly Salary (integer)}
 #'   \item{height}{Persons Height in inches (integer)}
 #' }
-#' @source Dr.McCurdy, cleaned and processed by Dr.McCurdy
-"data_210_census"
