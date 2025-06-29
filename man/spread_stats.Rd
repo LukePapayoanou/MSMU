@@ -16,9 +16,9 @@ spread_stats(x)
 \item{minz}{Normalized Minimum}
 \item{maxz}{Normalized Maximum}
 \item{diffz}{Normalized Range}
-\item{prp1}{Percent of data within 1 standard deviation from \code{pct()}}
-\item{prp2}{Percent of data within 2 standard deviation from \code{pct()}}
-\item{prp3}{Percent of data within 3 standard deviation from \code{pct()}}
+\item{pct1}{Percent of data within 1 standard deviation from \code{pct()}}
+\item{pct2}{Percent of data within 2 standard deviation from \code{pct()}}
+\item{pct3}{Percent of data within 3 standard deviation from \code{pct()}}
 }
 }
 \description{
