@@ -4,7 +4,7 @@
 #' \code{n} standard deviations of the mean.
 #'
 #' @param x A numeric vector.
-#' @param n A numeric value indicating how many standard deviations from the mean
+#' @param n A positive numeric value indicating how many standard deviations from the mean
 #' to use as bounds.
 #'
 #' @return A single numeric value representing the percentage (0–100) of values
@@ -14,6 +14,9 @@
 #' @export
 
 pct <- function(x, n) {
+  if (n <= 0) {
+    warning("`n` should be positive. You provided: ", n)
+  }
   lbnd <- mean(x, na.rm = TRUE) - n * sd(x, na.rm = TRUE)
   ubnd <- mean(x, na.rm = TRUE) + n * sd(x, na.rm = TRUE)
   round(length(x[x >= lbnd & x <= ubnd]) / length(x) * 100, 2)

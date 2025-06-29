@@ -9,7 +9,7 @@ pct(x, n)
 \arguments{
 \item{x}{A numeric vector.}
 
-\item{n}{A numeric value indicating how many standard deviations from the mean
+\item{n}{A positive numeric value indicating how many standard deviations from the mean
 to use as bounds.}
 }
 \value{
