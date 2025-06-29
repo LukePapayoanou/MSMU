@@ -26,6 +26,8 @@ set.seed(123)
 x <- rnorm(1000)
 pct(x,2)
 
+# Percentage of values that fall within 2 sds of the mean in iris Sepal Lengths
+data("iris")
 pct(iris$Sepal.Length, 2)
 
 
