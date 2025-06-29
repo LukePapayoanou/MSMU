@@ -18,3 +18,17 @@ A value near 0 suggests normal kurtosis (mesokurtic),
 positive values indicate heavier tails (leptokurtic), and negative
 values indicate lighter tails (platykurtic).
 }
+\details{
+The z-scores are computed as:
+\deqn{z_i = \frac{x_i - \bar{x}}{sd}}
+
+The kurtosis is then calculated as:
+\deqn{\text{Kurtosis} = \frac{1}{n} \sum_{i=1}^{n} z_i^4 - 3}
+
+Where:
+\itemize{
+\item \eqn{\bar{x}} is the mean of \eqn{x},
+\item \eqn{sd} is the standard deviation of \eqn{x},
+\item and \eqn{n} is the number of observations.
+}
+}
