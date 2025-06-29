@@ -31,3 +31,14 @@ Q1 (25th percentile), Q2 (50th percentile or median), Q3 (75th percentile).
 \strong{Quintiles} divide data into five equal groups, each representing 20\% of the distribution:
 20th percentile, 40th, 60th, 80th percentiles split the data into quintiles.
 }
+\examples{
+# Position stats of random data
+set.seed(123)
+x <- rnorm(1000)
+position_stats(x)
+
+# Position stats of MPG in mtcars data set
+position_stats(mtcars$mpg)
+
+
+}
