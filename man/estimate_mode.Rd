@@ -16,3 +16,14 @@ A single numeric value representing the estimated mode.
 Estimates the mode of a numeric vector by identifying the value corresponding
 to the peak of its estimated probability density function.
 }
+\examples{
+# Estimate the mode of continuous random data
+set.seed(123)
+x <- rnorm(1000, mean=5, sd=2)
+estimate_mode(x)
+
+# Estimate the mode of miles-per-gallon (mpg) in the mtcars dataset
+data("mtcars")
+estimate_mode(mtcars$mpg)
+
+}
