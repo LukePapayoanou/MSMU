@@ -27,6 +27,17 @@ standard deviation, iqr, the normalized minimum, maximum,
 and range as well as the percentage of data within 1, 2,
 and 3 standard deviations (via \code{pct()})
 }
+\examples{
+# Spread stats of random normal data
+set.seed(123)
+x <- rnorm(1000)
+spread_stats(x)
+
+# Spread stats of mpg in mtcars
+data("mtcars")
+spread_stats(mtcars$mpg)
+
+}
 \seealso{
 \code{\link{pct}}
 }

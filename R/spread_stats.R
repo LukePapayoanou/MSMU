@@ -21,9 +21,18 @@
 #'
 #' @seealso \code{\link{pct}}
 #'
+#' @examples
+#' # Spread stats of random normal data
+#' set.seed(123)
+#' x <- rnorm(1000)
+#' spread_stats(x)
+#'
+#' # Spread stats of mpg in mtcars
+#' data("mtcars")
+#' spread_stats(mtcars$mpg)
+#'
 #' @export
 #'
-
 
 spread_stats <- function(x){
   c(sd=round(sd(x,na.rm=TRUE),2),
