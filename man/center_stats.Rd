@@ -16,15 +16,14 @@ A named numeric vector with values for:
 \item{median}{Median}
 \item{trim25}{25\% trimmed mean}
 \item{trim10}{10\% trimmed mean}
-\item{mode}{Statistical mode from \code{MODE()}}
 \item{est_mode}{Estimated mode from \code{estimate_mode()}}
 }
 }
 \description{
 Computes a variety of center statistics for a numeric vector, including:
-mean, median, trimmed means (10\% and 25\%), mode (via \code{MODE()}),
-and estimated mode (via kernel density using \code{estimate_mode()}).
+mean, median, trimmed means (10\% and 25\%), and estimated mode (via probability density function
+using \code{estimate_mode()}).
 }
 \seealso{
-\code{\link{MODE}}, \code{\link{estimate_mode}}
+\code{\link{estimate_mode}}
 }
