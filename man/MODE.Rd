@@ -15,3 +15,12 @@ A numeric value (or vector) representing the mode(s) of \code{x}.
 \description{
 Calculates the mode (most frequent value) of a numeric vector. If there is a tie, returns all values that share the highest frequency.
 }
+\examples{
+# Mode of a Numeric Vector
+MODE(c(1,2,3,3,3,4,5,5,3,8))
+
+# Mode of the number of cylinders in mtcars dataset
+data("mtcars")
+MODE(mtcars$cyl)
+
+}
