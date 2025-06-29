@@ -17,6 +17,16 @@
 #'
 #' @seealso \code{\link{estimate_mode}}
 #'
+#' @examples
+#' # Center Stats of continuous random data
+#' set.seed(123)
+#' x <- rnorm(1000, mean=50, sd=10)
+#' center_stats(x)
+#'
+#' # Center Stats of Sepal Length in iris data set
+#' data("iris")
+#' center_stats(iris$Sepal.Length)
+#'
 #' @export
 
 center_stats <- function(x){

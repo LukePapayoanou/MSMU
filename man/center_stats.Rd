@@ -24,6 +24,17 @@ Computes a variety of center statistics for a numeric vector, including:
 mean, median, trimmed means (10\% and 25\%), and estimated mode (via probability density function
 using \code{estimate_mode()}).
 }
+\examples{
+# Center Stats of continuous random data
+set.seed(123)
+x <- rnorm(1000, mean=50, sd=10)
+center_stats(x)
+
+# Center Stats of Sepal Length in iris data set
+data("iris")
+center_stats(iris$Sepal.Length)
+
+}
 \seealso{
 \code{\link{estimate_mode}}
 }
