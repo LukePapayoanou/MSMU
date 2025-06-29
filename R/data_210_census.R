@@ -9,3 +9,6 @@
 #'   \item{salary}{Persons Yearly Salary (integer)}
 #'   \item{height}{Persons Height in inches (integer)}
 #' }
+#'
+#' @source synthetic data
+"data_210_census"
