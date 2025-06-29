@@ -29,6 +29,7 @@
 #' position_stats(x)
 #'
 #' # Position stats of MPG in mtcars data set
+#' data("mtcars")
 #' position_stats(mtcars$mpg)
 #'
 #'
