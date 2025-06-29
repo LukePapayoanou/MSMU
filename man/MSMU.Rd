@@ -12,5 +12,5 @@ along with utility functions for estimating modes and standardized ranges. It al
 dataset internally.
 }
 \author{
-Luke Papayoanou, Dr. McCurdy
+Luke Papayoanou, Jon McCurdy
 }

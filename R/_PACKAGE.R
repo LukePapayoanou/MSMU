@@ -8,5 +8,5 @@
 #' @docType package
 #' @name MSMU
 #' @author
-#' Luke Papayoanou, Dr. McCurdy
+#' Luke Papayoanou, Jon McCurdy
 "_PACKAGE"
