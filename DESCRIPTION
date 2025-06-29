@@ -1,7 +1,10 @@
 Package: MSMU
 Title: MSMU
 Version: 0.0.0.9000
-Authors@R: person(given = "Luke", family = "Papayoanou", email = "l.papayoanou@email.msmary.edu", role = c("aut", "cre"))
+Authors@R: c(
+    person(given = "Luke", family = "Papayoanou", email = "l.papayoanou@email.msmary.edu", role = c("aut", "cre")),
+    person(given = "Jon", family = "McCurdy", email= "j.r.mccurdy@msmary.edu", role =c("aut", "cre"))
+    )
 Description: This package includes fundamental data functions. The
     functions provided are MODE, estimate_mode, center_stats,
     position_stats, pct, spread_stats, kurt, skew and shape_stats
