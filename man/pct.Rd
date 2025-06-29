@@ -20,3 +20,13 @@ within the specified range.
 Calculates the percentage of values in a numeric vector that fall within
 \code{n} standard deviations of the mean.
 }
+\examples{
+# Percentage of values that fall within 2 sds of the mean in random normal data
+set.seed(123)
+x <- rnorm(1000)
+pct(x,2)
+
+pct(iris$Sepal.Length, 2)
+
+
+}
