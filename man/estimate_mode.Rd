@@ -13,6 +13,6 @@ estimate_mode(x)
 A single numeric value representing the estimated mode.
 }
 \description{
-Estimates the mode (most frequent value) of a numeric vector by identifying
-which value on our density function is the highest
+Estimates the mode of a numeric vector by identifying the value corresponding
+to the peak of its estimated probability density function.
 }

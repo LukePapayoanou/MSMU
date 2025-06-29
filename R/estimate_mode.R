@@ -1,7 +1,8 @@
 #' Estimate Mode using Density function to find Mode of continuous data
 #'
-#' Estimates the mode (most frequent value) of a numeric vector by identifying
-#' which value on our density function is the highest
+#' Estimates the mode of a numeric vector by identifying the value corresponding
+#' to the peak of its estimated probability density function.
+#'
 #'
 #' @param x A numeric vector. Missing values (`NA`) are removed.
 #'
