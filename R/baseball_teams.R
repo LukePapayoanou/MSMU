@@ -1,0 +1,21 @@
+#' baseball teams data
+#'
+#'
+#' @format A data frame with 630 rows and 12 columns:
+#' \describe{
+#'   \item{year}{Year (integer)}
+#'   \item{team_name}{Team (character)}
+#'   \item{games_played}{Number of games played (integer)}
+#'   \item{wins}{Number of wins (integer)}
+#'   \item{losses}{Number of losses (integer)}
+#'   \item{world_series}{World series winner that specific year (character)}
+#'   \item{runs_scored}{Number of total runs scored during season (integer)}
+#'   \item{hits}{Number of total hits during season (integer)}
+#'   \item{homeruns}{Number of total homeruns during season (integer)}
+#'   \item{earned_run_average}{Team earned run average per 9 innings (numeric)}
+#'   \item{fielding_percentage}{Team fielding percentage (numeric)}
+#'   \item{home_attendance}{Average home game attendance (integer)}
+#' }
+#'
+#' @source baseball teams
+"baseball_teams"
