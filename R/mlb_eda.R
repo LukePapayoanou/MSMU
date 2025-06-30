@@ -1,0 +1,22 @@
+#' MLB data
+#'
+#'
+#' @format A data frame with 1270 rows and 13 columns:
+#' \describe{
+#'   \item{name}{Players name (character)}
+#'   \item{team}{Players team (character)}
+#'   \item{position}{Players position (character)}
+#'   \item{games}{Number of games (integer)}
+#'   \item{AB}{Number of at bats (integer)}
+#'   \item{R}{Number of runs (integer)}
+#'   \item{H}{Number of hits (integer)}
+#'   \item{doubles}{Number of doubles (integer)}
+#'   \item{HR}{Number of Home runs (integer)}
+#'   \item{RBI}{Number of Runs Batted In (integer)}
+#'   \item{AVG}{Players batting average (numeric)}
+#'   \item{SLG}{Players Slugging percentage (numeric)}
+#'   \item{OPS}{Players On-base Plus Slugging (numeric)}
+#' }
+#'
+#' @source mlb eda
+"mlb_eda"
