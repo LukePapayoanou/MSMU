@@ -8,6 +8,12 @@
 #'
 #' @return A single numeric value representing the skewness of the distribution.
 #'
+#' @examples
+#' # Skew of Sepal Lengths in iris
+#' data("iris")
+#' skew(iris$Sepal.Length)
+#'
+#'
 #' @export
 #'
 

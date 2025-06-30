@@ -17,3 +17,10 @@ Calculates the skewness of a numeric vector.
 A positive value indicates right skew (long right tail), while a negative value
 indicates left skew (long left tail). A zero value represents symmetry
 }
+\examples{
+# Skew of Sepal Lengths in iris
+data("iris")
+skew(iris$Sepal.Length)
+
+
+}
