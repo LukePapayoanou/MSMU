@@ -20,7 +20,6 @@ A data frame with 777 rows and 16 columns:
 \item{PhD}{Percentage of Faculty with a PhD (integer)}
 \item{Terminal}{Percentage of Faculty with a terminal degree (integer)}
 \item{S.F.Ratio}{Student Faculty ratio (numeric)}
-\item{test.preparation.course}{Student test prep level (character)}
 \item{perc.alumni}{Percent of alumni who donate to the college (integer)}
 \item{Expend}{Instructional expenditure per student (integer)}
 \item{Grad.Rate}{Graduation Rate (integer)}
