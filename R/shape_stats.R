@@ -16,6 +16,12 @@
 #'    \item{kurt}{Kurtosis of Data from `kurt()`}
 #' }
 #'
+#' @examples
+#' # Shape stats of mpg in mtcars
+#' data("mtcars")
+#' shape_stats(mtcars$mpg)
+#'
+#'
 #' @export
 
 shape_stats <- function(x) {

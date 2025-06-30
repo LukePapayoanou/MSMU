@@ -25,3 +25,10 @@ A value near 0 suggests normal kurtosis (mesokurtic),
 positive values indicate heavier tails (leptokurtic), and negative
 values indicate lighter tails (platykurtic).
 }
+\examples{
+# Shape stats of mpg in mtcars
+data("mtcars")
+shape_stats(mtcars$mpg)
+
+
+}
