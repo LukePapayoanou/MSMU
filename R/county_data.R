@@ -19,6 +19,7 @@
 #'   \item{household_has_smartphone}{Percent of households who have a smartphone (numeric)}
 #'   \item{mean_household_income}{Average household income (integer)}
 #'   \item{median_household_income}{Median household income (integer)}
+#'   \item{unemployment_rate}{Unemployment rate (numeric)}
 #' }
 #'
 #' @source 2019 county data
