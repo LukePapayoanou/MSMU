@@ -23,5 +23,5 @@
 #'   \item{Fouls}{Number of fouls (integer)}
 #' }
 #'
-#' @source Quarterback data
-"football"
+#' @source Basketball data
+"basketball"
