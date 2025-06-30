@@ -22,6 +22,12 @@
 #'
 #' @return A single numeric value representing the kurtosis
 #'
+#' @examples
+#' # Kurtosis of mpg in mtcars
+#' data("mtcars")
+#' kurt(mtcars$mpg)
+#'
+#'
 #' @export
 #'
 

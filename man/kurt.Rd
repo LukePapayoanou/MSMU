@@ -32,3 +32,10 @@ Where:
 \item and \eqn{n} is the number of observations.
 }
 }
+\examples{
+# Kurtosis of mpg in mtcars
+data("mtcars")
+kurt(mtcars$mpg)
+
+
+}
