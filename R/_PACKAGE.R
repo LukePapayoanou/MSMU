@@ -5,6 +5,9 @@
 #' along with utility functions for estimating modes and standardized ranges. It also contains a census
 #' dataset internally.
 #'
+#' @section Functions:
+#' - [MODE()]
+#'
 #' @docType package
 #' @name MSMU
 #' @author

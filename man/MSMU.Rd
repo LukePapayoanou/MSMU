@@ -11,6 +11,13 @@ It includes functions for computing central tendency, spread, shape, and positio
 along with utility functions for estimating modes and standardized ranges. It also contains a census
 dataset internally.
 }
+\section{Functions}{
+
+\itemize{
+\item \code{\link[=MODE]{MODE()}}
+}
+}
+
 \author{
 Luke Papayoanou, Jon McCurdy
 }
