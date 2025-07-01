@@ -15,6 +15,41 @@ dataset internally.
 
 \itemize{
 \item \code{\link[=MODE]{MODE()}}
+\item \code{\link[=estimate_mode]{estimate_mode()}}
+\item \code{\link[=center_stats]{center_stats()}}
+\item \code{\link[=position_stats]{position_stats()}}
+\item \code{\link[=pct]{pct()}}
+\item \code{\link[=spread_stats]{spread_stats()}}
+\item \code{\link[=skew]{skew()}}
+\item \code{\link[=kurt]{kurt()}}
+\item \code{\link[=shape_stats]{shape_stats()}}
+}
+}
+
+\section{Datasets}{
+
+\itemize{
+\item \link{data_210_census}
+\item \link{class_demographics}
+\item \link{mlb_eda}
+\item \link{housing_data}
+\item \link{exam_scores}
+\item \link{football}
+\item \link{college_data}
+\item \link{basketball}
+\item \link{mount_dorms}
+\item \link{baseball_teams}
+\item \link{christmas}
+\item \link{heart}
+\item \link{county_data}
+\item \link{reaction_time}
+\item \link{election_2020}
+\item \link{soccer}
+\item \link{exam_data}
+\item \link{running}
+\item \link{course_scores}
+\item \link{income_data}
+\item \link{ledger_data}
 }
 }
 

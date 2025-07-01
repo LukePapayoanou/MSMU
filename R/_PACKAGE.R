@@ -7,6 +7,37 @@
 #'
 #' @section Functions:
 #' - [MODE()]
+#' - [estimate_mode()]
+#' - [center_stats()]
+#' - [position_stats()]
+#' - [pct()]
+#' - [spread_stats()]
+#' - [skew()]
+#' - [kurt()]
+#' - [shape_stats()]
+#'
+#' @section Datasets:
+#' - [data_210_census]
+#' - [class_demographics]
+#' - [mlb_eda]
+#' - [housing_data]
+#' - [exam_scores]
+#' - [football]
+#' - [college_data]
+#' - [basketball]
+#' - [mount_dorms]
+#' - [baseball_teams]
+#' - [christmas]
+#' - [heart]
+#' - [county_data]
+#' - [reaction_time]
+#' - [election_2020]
+#' - [soccer]
+#' - [exam_data]
+#' - [running]
+#' - [course_scores]
+#' - [income_data]
+#' - [ledger_data]
 #'
 #' @docType package
 #' @name MSMU
