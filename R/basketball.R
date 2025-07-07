@@ -1,5 +1,8 @@
-#' Ncaa basketball data
+#' @title NCAA basketball data
 #'
+#' @description
+#' This dataset contains performance statistics for 363 men’s college
+#' basketball teams from the 2022-23 season.
 #'
 #' @format A data frame with 363 rows and 18 columns:
 #' \describe{
@@ -23,5 +26,7 @@
 #'   \item{Fouls}{Number of fouls (integer)}
 #' }
 #'
-#' @source Basketball data
+#' @source Data retrieved from
+#' \href{https://www.sports-reference.com/cbb/seasons/men/2023-school-stats.html}{Sports Reference}
+#'  with alterations made for educational purposes.
 "basketball"

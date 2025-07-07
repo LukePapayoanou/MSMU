@@ -3,7 +3,7 @@
 \docType{data}
 \name{basketball}
 \alias{basketball}
-\title{Ncaa basketball data}
+\title{NCAA basketball data}
 \format{
 A data frame with 363 rows and 18 columns:
 \describe{
@@ -28,12 +28,15 @@ A data frame with 363 rows and 18 columns:
 }
 }
 \source{
-Basketball data
+Data retrieved from
+\href{https://www.sports-reference.com/cbb/seasons/men/2023-school-stats.html}{Sports Reference}
+with alterations made for educational purposes.
 }
 \usage{
 basketball
 }
 \description{
-Ncaa basketball data
+This dataset contains performance statistics for 363 men’s college
+basketball teams from the 2022-23 season.
 }
 \keyword{datasets}
