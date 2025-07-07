@@ -1,4 +1,8 @@
-#' baseball teams data
+#' @title Professional baseball teams data
+#'
+#' @description
+#' This dataset contains historical performance and statistics for professional
+#' baseball teams across multiple seasons from 2000-2020.
 #'
 #'
 #' @format A data frame with 630 rows and 12 columns:
@@ -17,5 +21,6 @@
 #'   \item{home_attendance}{Average home game attendance (integer)}
 #' }
 #'
-#' @source baseball teams
+#' @source Data retrieved from \href{https://sabr.org/lahman-database/}{Lahmans Baseball Database}
+#' with alterations made for educational purposes
 "baseball_teams"

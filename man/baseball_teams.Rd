@@ -3,7 +3,7 @@
 \docType{data}
 \name{baseball_teams}
 \alias{baseball_teams}
-\title{baseball teams data}
+\title{Professional baseball teams data}
 \format{
 A data frame with 630 rows and 12 columns:
 \describe{
@@ -22,12 +22,14 @@ A data frame with 630 rows and 12 columns:
 }
 }
 \source{
-baseball teams
+Data retrieved from \href{https://sabr.org/lahman-database/}{Lahmans Baseball Database}
+with alterations made for educational purposes
 }
 \usage{
 baseball_teams
 }
 \description{
-baseball teams data
+This dataset contains historical performance and statistics for professional
+baseball teams across multiple seasons from 2000-2020.
 }
 \keyword{datasets}
