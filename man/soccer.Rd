@@ -17,7 +17,7 @@ A data frame with 13750 rows and 5 columns:
 \source{
 Data retrieved from
 \href{https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017?select=results.csv}{Kaggle International football results dataset}
-library with alterations made for educational purposes.”
+with alterations made for educational purposes.”
 }
 \usage{
 soccer

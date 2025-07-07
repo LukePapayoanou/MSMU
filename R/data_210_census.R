@@ -1,4 +1,6 @@
-#' Synthetic Census dataset
+#' @title Synthetic Census dataset
+#'
+#' @description
 #' A synthetic dataset containing demographic and socioeconomic information for
 #' 1,000 individuals.
 #'

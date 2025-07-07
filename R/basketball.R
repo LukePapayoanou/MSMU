@@ -1,4 +1,4 @@
-#' @title NCAA basketball data
+#' @title College basketball data
 #'
 #' @description
 #' This dataset contains performance statistics for 363 men’s college

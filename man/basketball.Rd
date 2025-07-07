@@ -3,7 +3,7 @@
 \docType{data}
 \name{basketball}
 \alias{basketball}
-\title{NCAA basketball data}
+\title{College basketball data}
 \format{
 A data frame with 363 rows and 18 columns:
 \describe{

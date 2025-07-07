@@ -3,9 +3,7 @@
 \docType{data}
 \name{data_210_census}
 \alias{data_210_census}
-\title{Synthetic Census dataset
-A synthetic dataset containing demographic and socioeconomic information for
-1,000 individuals.}
+\title{Synthetic Census dataset}
 \format{
 A data frame with 1000 rows and 5 columns:
 \describe{
@@ -23,7 +21,6 @@ Synthetic Data
 data_210_census
 }
 \description{
-Synthetic Census dataset
 A synthetic dataset containing demographic and socioeconomic information for
 1,000 individuals.
 }
