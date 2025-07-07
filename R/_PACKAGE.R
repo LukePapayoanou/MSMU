@@ -21,7 +21,6 @@
 #' - [class_demographics]
 #' - [mlb_eda]
 #' - [housing_data]
-#' - [exam_scores]
 #' - [football]
 #' - [college_data]
 #' - [basketball]

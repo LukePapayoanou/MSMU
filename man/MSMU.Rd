@@ -32,7 +32,6 @@ along with utility functions for estimating modes and standardized ranges. The p
 \item \link{class_demographics}
 \item \link{mlb_eda}
 \item \link{housing_data}
-\item \link{exam_scores}
 \item \link{football}
 \item \link{college_data}
 \item \link{basketball}
