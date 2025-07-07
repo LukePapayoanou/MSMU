@@ -2,8 +2,8 @@
 #'
 #' The MSMU package provides core functions for descriptive statistics and exploratory data analysis.
 #' It includes functions for computing central tendency, spread, shape, and position statistics,
-#' along with utility functions for estimating modes and standardized ranges. It also contains a census
-#' dataset internally.
+#' along with utility functions for estimating modes and standardized ranges. The package contains
+#  a number of datasets regularly used for learning R.
 #'
 #' @section Functions:
 #' - [MODE()]
