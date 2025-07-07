@@ -3,7 +3,7 @@
 \docType{data}
 \name{county_data}
 \alias{county_data}
-\title{2019 county data}
+\title{County data}
 \format{
 A data frame with 3142 rows and 17 columns:
 \describe{
@@ -27,12 +27,16 @@ A data frame with 3142 rows and 17 columns:
 }
 }
 \source{
-2019 county data
+Adapted from the
+\href{https://rdrr.io/cran/usdata/man/county_complete.html}{county_complete dataset}
+in the \href{https://CRAN.R-project.org/package=usdata}{usdata library} with
+alterations made for educational purposes.”
 }
 \usage{
 county_data
 }
 \description{
-2019 county data
+Data for 3142 counties in the United States containing demographic,
+educational, economic, and technological statistics.
 }
 \keyword{datasets}

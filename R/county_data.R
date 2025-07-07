@@ -1,5 +1,8 @@
-#' 2019 county data
+#' @title County data
 #'
+#' @description
+#' Data for 3142 counties in the United States containing demographic,
+#' educational, economic, and technological statistics.
 #'
 #' @format A data frame with 3142 rows and 17 columns:
 #' \describe{
@@ -22,5 +25,8 @@
 #'   \item{unemployment_rate}{Unemployment rate (numeric)}
 #' }
 #'
-#' @source 2019 county data
+#' @source Adapted from the
+#' \href{https://rdrr.io/cran/usdata/man/county_complete.html}{county_complete dataset}
+#' in the \href{https://CRAN.R-project.org/package=usdata}{usdata library} with
+#' alterations made for educational purposes.”
 "county_data"
