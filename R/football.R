@@ -1,4 +1,8 @@
-#' Football/quarterback data
+#' @title Football/Quarterback data
+#'
+#' @description
+#' Dataset containing performance statistics for 106 football players who
+#' attempted a pass in the NFL for the 2022 season.
 #'
 #'
 #' @format A data frame with 106 rows and 17 columns:
@@ -22,5 +26,7 @@
 #'   \item{QBR}{Total Quarterback Rating (numeric)}
 #' }
 #'
-#' @source Quarterback data
+#' @source Data retrieved from
+#' \href{https://www.pro-football-reference.com/years/2022/passing.htm}{Pro Football Reference}
+#' with alterations made for educational purposes.
 "football"

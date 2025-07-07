@@ -3,7 +3,7 @@
 \docType{data}
 \name{football}
 \alias{football}
-\title{Football/quarterback data}
+\title{Football/Quarterback data}
 \format{
 A data frame with 106 rows and 17 columns:
 \describe{
@@ -27,12 +27,15 @@ A data frame with 106 rows and 17 columns:
 }
 }
 \source{
-Quarterback data
+Data retrieved from
+\href{https://www.pro-football-reference.com/years/2022/passing.htm}{Pro Football Reference}
+with alterations made for educational purposes.
 }
 \usage{
 football
 }
 \description{
-Football/quarterback data
+Dataset containing performance statistics for 106 football players who
+attempted a pass in the NFL for the 2022 season.
 }
 \keyword{datasets}
