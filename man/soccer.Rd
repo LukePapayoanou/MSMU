@@ -5,9 +5,8 @@
 \alias{soccer}
 \title{Historic soccer data}
 \format{
-A data frame with 13750 rows and 6 columns:
+A data frame with 13750 rows and 5 columns:
 \describe{
-\item{X}{numbered list (integer)}
 \item{date}{Date of match (character)}
 \item{home_team}{Home team name (character)}
 \item{away_team}{Away team name (character)}
@@ -16,12 +15,14 @@ A data frame with 13750 rows and 6 columns:
 }
 }
 \source{
-historic soccer data
+\href{https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017?select=results.csv}{Kaggle International football results dataset}
+library with alterations made for educational purposes.”
 }
 \usage{
 soccer
 }
 \description{
-Historic soccer data
+This dataset contains historical match results from various international
+soccer games between different countries for the years 1872-2024.
 }
 \keyword{datasets}
