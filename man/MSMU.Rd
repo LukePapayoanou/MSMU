@@ -44,7 +44,6 @@ along with utility functions for estimating modes and standardized ranges. The p
 \item \link{election_2020}
 \item \link{soccer}
 \item \link{exam_data}
-\item \link{running}
 \item \link{course_scores}
 \item \link{income_data}
 \item \link{ledger_data}

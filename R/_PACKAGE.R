@@ -33,7 +33,6 @@
 #' - [election_2020]
 #' - [soccer]
 #' - [exam_data]
-#' - [running]
 #' - [course_scores]
 #' - [income_data]
 #' - [ledger_data]
