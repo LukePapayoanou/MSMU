@@ -1,4 +1,6 @@
 #' Class demographics
+#' A sample dataset representing demographic and academic information for 50
+#' college students.
 #'
 #'
 #' @format A data frame with 50 rows and 6 columns:
@@ -11,5 +13,5 @@
 #'   \item{sport}{Binary Sport, 1(yes) or 0(no) (integer)}
 #' }
 #'
-#' @source class data
+#' @source Synthetic Data
 "class_demographics"
