@@ -1,5 +1,6 @@
 #' Synthetic Census dataset
-#'
+#' A synthetic dataset containing demographic and socioeconomic information for
+#' 1,000 individuals.
 #'
 #' @format A data frame with 1000 rows and 5 columns:
 #' \describe{
@@ -10,5 +11,5 @@
 #'   \item{height}{Persons Height in inches (integer)}
 #' }
 #'
-#' @source synthetic data
+#' @source Synthetic Data
 "data_210_census"
