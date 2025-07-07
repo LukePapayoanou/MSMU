@@ -1,4 +1,6 @@
-#' Housing data
+#' @title Housing data
+#'
+#' @description
 #' Data on houses that were recently sold in the Duke Forest neighborhood of
 #' Durham, NC in November 2020.
 #'

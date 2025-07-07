@@ -3,9 +3,7 @@
 \docType{data}
 \name{housing_data}
 \alias{housing_data}
-\title{Housing data
-Data on houses that were recently sold in the Duke Forest neighborhood of
-Durham, NC in November 2020.}
+\title{Housing data}
 \format{
 A data frame with 98 rows and 6 columns:
 \describe{
@@ -27,7 +25,6 @@ with alterations made for educational purposes.
 housing_data
 }
 \description{
-Housing data
 Data on houses that were recently sold in the Duke Forest neighborhood of
 Durham, NC in November 2020.
 }
