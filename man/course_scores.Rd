@@ -20,12 +20,13 @@ A data frame with 200 rows and 10 columns:
 }
 }
 \source{
-course scores
+Synthetic Data
 }
 \usage{
 course_scores
 }
 \description{
-Course scores data
+This dataset contains academic performance records for 200 students across
+four years of high school, with scores or letter grades in English and Math.
 }
 \keyword{datasets}

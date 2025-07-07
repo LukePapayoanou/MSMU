@@ -1,4 +1,9 @@
-#' Course scores data
+#' @title Course scores data
+#'
+#' @description
+#' This dataset contains academic performance records for 200 students across
+#' four years of high school, with scores or letter grades in English and Math.
+#'
 #'
 #'
 #' @format A data frame with 200 rows and 10 columns:
@@ -15,5 +20,5 @@
 #'   \item{Senior_Math}{Senior Math Score/letter grade (character)}
 #' }
 #'
-#' @source course scores
+#' @source Synthetic Data
 "course_scores"
