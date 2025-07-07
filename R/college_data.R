@@ -1,5 +1,9 @@
-#' College data
+#' @title College data
 #'
+#' @description
+#' This dataset provides detailed information on 777 U.S. colleges and
+#' universities from 1995, covering aspects of admissions, academics, finances,
+#' and student demographics.
 #'
 #' @format A data frame with 777 rows and 16 columns:
 #' \describe{
@@ -21,5 +25,8 @@
 #'   \item{Grad.Rate}{Graduation Rate (integer)}
 #' }
 #'
-#' @source college data
+#' @source This dataset was taken from the \href{https://lib.stat.cmu.edu/}{StatLib}
+#' library which is maintained at Carnegie Mellon University.
+#' Adapted from the \href{https://rdrr.io/cran/ISLR/man/College.html}{College}
+#' dataset in the ISLR library with alterations made for educational purposes.
 "college_data"
