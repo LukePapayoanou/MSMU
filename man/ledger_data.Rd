@@ -12,12 +12,13 @@ A data frame with 4 rows and 104 columns:
 }
 }
 \source{
-ledger data
+Synthetic Data
 }
 \usage{
 ledger_data
 }
 \description{
-Ledger data
+Dataset mimicking a ledger showing the price an item was bought and sold for,
+the date it occurred, and the color of the product.
 }
 \keyword{datasets}
