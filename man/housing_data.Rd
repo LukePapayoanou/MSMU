@@ -3,7 +3,9 @@
 \docType{data}
 \name{housing_data}
 \alias{housing_data}
-\title{Housing data}
+\title{Housing data
+Data on houses that were recently sold in the Duke Forest neighborhood of
+Durham, NC in November 2020.}
 \format{
 A data frame with 98 rows and 6 columns:
 \describe{
@@ -16,12 +18,17 @@ A data frame with 98 rows and 6 columns:
 }
 }
 \source{
-housing data
+Adapted from the
+\href{https://www.openintro.org/data/index.php?data=duke_forest}{duke_forest}
+dataset in the \href{https://www.openintro.org/data/}{openintro} library
+with alterations made for educational purposes.
 }
 \usage{
 housing_data
 }
 \description{
 Housing data
+Data on houses that were recently sold in the Duke Forest neighborhood of
+Durham, NC in November 2020.
 }
 \keyword{datasets}
