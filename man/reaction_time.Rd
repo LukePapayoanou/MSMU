@@ -3,7 +3,7 @@
 \docType{data}
 \name{reaction_time}
 \alias{reaction_time}
-\title{reaction data}
+\title{Reaction Data}
 \format{
 A data frame with 100 rows and 6 columns:
 \describe{
@@ -16,12 +16,13 @@ A data frame with 100 rows and 6 columns:
 }
 }
 \source{
-reaction data
+Synthetic Data
 }
 \usage{
 reaction_time
 }
 \description{
-reaction data
+This dataset contains synthetic reaction time measurements for 100
+individuals under different conditions.
 }
 \keyword{datasets}

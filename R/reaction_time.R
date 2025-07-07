@@ -1,5 +1,8 @@
-#' reaction data
+#' @title Reaction Data
 #'
+#' @description
+#' This dataset contains synthetic reaction time measurements for 100
+#' individuals under different conditions.
 #'
 #' @format A data frame with 100 rows and 6 columns:
 #' \describe{
@@ -11,5 +14,5 @@
 #'   \item{Gender}{Person gender (character)}
 #' }
 #'
-#' @source reaction data
+#' @source Synthetic Data
 "reaction_time"
