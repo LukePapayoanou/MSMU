@@ -15,12 +15,12 @@ A data frame with 20 rows and 5 columns:
 }
 }
 \source{
-Income data
+Synthetic Data
 }
 \usage{
 income_data
 }
 \description{
-Income data
+Dataset containing basic demographic and financial information for 20 individuals.
 }
 \keyword{datasets}

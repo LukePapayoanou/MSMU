@@ -1,5 +1,7 @@
-#' Income data
+#' @title Income data
 #'
+#' @description
+#' Dataset containing basic demographic and financial information for 20 individuals.
 #'
 #' @format A data frame with 20 rows and 5 columns:
 #' \describe{
@@ -10,5 +12,5 @@
 #'   \item{Birth_weight}{Birth weight (integer)}
 #' }
 #'
-#' @source Income data
+#' @source Synthetic Data
 "income_data"
