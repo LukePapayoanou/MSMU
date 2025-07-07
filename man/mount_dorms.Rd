@@ -3,11 +3,10 @@
 \docType{data}
 \name{mount_dorms}
 \alias{mount_dorms}
-\title{Mount St.Marys dorm data}
+\title{Mount St.Mary's dorm data}
 \format{
-A data frame with 4 rows and 12 columns:
+A data frame with 4 rows and 11 columns:
 \describe{
-\item{X}{integer, 1-4 (integer)}
 \item{year}{Students year (character)}
 \item{m_Pangborn}{Males living in Pangborn (integer)}
 \item{m_Sheridan}{Males living in Sheridan (integer)}
@@ -22,12 +21,13 @@ A data frame with 4 rows and 12 columns:
 }
 }
 \source{
-mount dorm data
+Synthetic Data
 }
 \usage{
 mount_dorms
 }
 \description{
-Mount St.Marys dorm data
+Dataset summarizing the distribution of male and female students across
+various dormitories at Mount College, categorized by academic year.
 }
 \keyword{datasets}

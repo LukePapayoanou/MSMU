@@ -1,9 +1,12 @@
-#' Mount St.Marys dorm data
+#' @title Mount St.Mary's dorm data
+#'
+#' @description
+#' Dataset summarizing the distribution of male and female students across
+#' various dormitories at Mount College, categorized by academic year.
 #'
 #'
-#' @format A data frame with 4 rows and 12 columns:
+#' @format A data frame with 4 rows and 11 columns:
 #' \describe{
-#'   \item{X}{integer, 1-4 (integer)}
 #'   \item{year}{Students year (character)}
 #'   \item{m_Pangborn}{Males living in Pangborn (integer)}
 #'   \item{m_Sheridan}{Males living in Sheridan (integer)}
@@ -17,5 +20,5 @@
 #'   \item{f_Towers}{Females living in the Towers (integer)}
 #' }
 #'
-#' @source mount dorm data
+#' @source Synthetic Data
 "mount_dorms"
