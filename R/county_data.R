@@ -28,5 +28,5 @@
 #' @source Adapted from the
 #' \href{https://rdrr.io/cran/usdata/man/county_complete.html}{county_complete dataset}
 #' in the \href{https://CRAN.R-project.org/package=usdata}{usdata library} with
-#' alterations made for educational purposes.”
+#' alterations made for educational purposes.
 "county_data"
