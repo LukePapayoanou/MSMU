@@ -1,5 +1,5 @@
 #' MLB data
-#'
+#' Batter statistics for 2018 Major League Baseball season
 #'
 #' @format A data frame with 1270 rows and 13 columns:
 #' \describe{
@@ -18,5 +18,6 @@
 #'   \item{OPS}{Players On-base Plus Slugging (numeric)}
 #' }
 #'
-#' @source mlb eda
+#' @source Data retrieved from \href{https://www.mlb.com/stats}{MLB}, with
+#' alterations made for educational purposes.
 "mlb_eda"

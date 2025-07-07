@@ -3,7 +3,8 @@
 \docType{data}
 \name{mlb_eda}
 \alias{mlb_eda}
-\title{MLB data}
+\title{MLB data
+Batter statistics for 2018 Major League Baseball season}
 \format{
 A data frame with 1270 rows and 13 columns:
 \describe{
@@ -23,12 +24,14 @@ A data frame with 1270 rows and 13 columns:
 }
 }
 \source{
-mlb eda
+Data retrieved from \href{https://www.mlb.com/stats}{MLB}, with
+alterations made for educational purposes.
 }
 \usage{
 mlb_eda
 }
 \description{
 MLB data
+Batter statistics for 2018 Major League Baseball season
 }
 \keyword{datasets}
