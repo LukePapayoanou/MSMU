@@ -1,4 +1,8 @@
-#' heart data
+#' @title Heart data
+#'
+#' @description
+#' Dataset containing medical and diagnostic information for 303 patients,
+#' used to study the presence of Atherosclerotic Heart Disease (AHD).
 #'
 #'
 #' @format A data frame with 303 rows and 14 columns:
@@ -18,5 +22,6 @@
 #'   \item{AHD}{Atherosclerosis Heart Disease condition (character)}
 #' }
 #'
-#' @source Heart Disease
+#' @source Data retrieved from
+#' \href{https://archive.ics.uci.edu/dataset/45/heart+disease}{UC Irvine Machine Learning Repository}
 "heart"

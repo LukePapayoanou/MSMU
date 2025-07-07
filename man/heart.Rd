@@ -3,7 +3,7 @@
 \docType{data}
 \name{heart}
 \alias{heart}
-\title{heart data}
+\title{Heart data}
 \format{
 A data frame with 303 rows and 14 columns:
 \describe{
@@ -23,12 +23,14 @@ A data frame with 303 rows and 14 columns:
 }
 }
 \source{
-Heart Disease
+Data retrieved from
+\href{https://archive.ics.uci.edu/dataset/45/heart+disease}{UC Irvine Machine Learning Repository}
 }
 \usage{
 heart
 }
 \description{
-heart data
+Dataset containing medical and diagnostic information for 303 patients,
+used to study the presence of Atherosclerotic Heart Disease (AHD).
 }
 \keyword{datasets}
