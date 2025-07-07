@@ -1,4 +1,6 @@
-#' MLB data
+#' @title MLB data
+#'
+#' @description
 #' Batter statistics for 2018 Major League Baseball season
 #'
 #' @format A data frame with 1270 rows and 13 columns:
