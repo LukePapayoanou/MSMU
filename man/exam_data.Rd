@@ -3,7 +3,7 @@
 \docType{data}
 \name{exam_data}
 \alias{exam_data}
-\title{Mini Project exam data}
+\title{Exam data}
 \format{
 A data frame with 1000 rows and 8 columns:
 \describe{
@@ -18,12 +18,14 @@ A data frame with 1000 rows and 8 columns:
 }
 }
 \source{
-Mini project exam data
+Data retrieved from
+\href{https://roycekimmons.com/tools/generated_data/exams}{roycekimmons generated data}
 }
 \usage{
 exam_data
 }
 \description{
-Mini Project exam data
+Synthetic dataset containing academic performance and background information
+for 1,000 students.
 }
 \keyword{datasets}

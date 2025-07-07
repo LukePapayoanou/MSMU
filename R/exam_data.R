@@ -1,4 +1,8 @@
-#' Mini Project exam data
+#' @title Exam data
+#'
+#' @description
+#' Synthetic dataset containing academic performance and background information
+#' for 1,000 students.
 #'
 #'
 #' @format A data frame with 1000 rows and 8 columns:
@@ -13,5 +17,6 @@
 #'   \item{writing.score}{Students writing score (integer)}
 #' }
 #'
-#' @source Mini project exam data
+#' @source Data retrieved from
+#' \href{https://roycekimmons.com/tools/generated_data/exams}{roycekimmons generated data}
 "exam_data"
