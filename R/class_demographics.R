@@ -1,4 +1,6 @@
-#' Class demographics
+#' @title Class demographics
+#'
+#' @description
 #' A sample dataset representing demographic and academic information for 50
 #' college students.
 #'

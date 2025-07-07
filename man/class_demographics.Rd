@@ -3,9 +3,7 @@
 \docType{data}
 \name{class_demographics}
 \alias{class_demographics}
-\title{Class demographics
-A sample dataset representing demographic and academic information for 50
-college students.}
+\title{Class demographics}
 \format{
 A data frame with 50 rows and 6 columns:
 \describe{
@@ -24,7 +22,6 @@ Synthetic Data
 class_demographics
 }
 \description{
-Class demographics
 A sample dataset representing demographic and academic information for 50
 college students.
 }
