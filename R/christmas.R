@@ -10,7 +10,7 @@
 #'   \item{Chores_Completed}{Number of Chores completed (numeric)}
 #'   \item{Favorite_Color}{Childs Favorite color (character)}
 #'   \item{Helping_Hand}{Childs helping hand number/score (integer)}
-#'   \item{Complaints_Recieved}{Number of complaints child says (numeric)}
+#'   \item{Complaints_Received}{Number of complaints child says (numeric)}
 #'   \item{Tantrum_Count}{Number of Tantrums child has (integer)}
 #'   \item{Rule_Breaks}{Number of rule breaking child does (numeric)}
 #'   \item{Sharing_Behavior}{Childs willingness to share (numeric)}

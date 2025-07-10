@@ -8,6 +8,8 @@
 #'
 #' @return A single numeric value representing the estimated mode.
 #'
+#' @importFrom stats density
+#'
 #' @examples
 #' # Estimate the mode of continuous random data
 #' set.seed(123)

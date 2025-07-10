@@ -17,6 +17,7 @@
 #'   \item{MaxHR}{Maximum heart rate achieved (integer)}
 #'   \item{ExAng}{Exercise induced angina (1 = yes; 0 = no) (integer)}
 #'   \item{Oldpeak}{ST depression induced by exercise relative to rest (numeric)}
+#'   \item{Slope}{The slope of the peak exercise ST segment (integer)}
 #'   \item{Ca}{Number of major vessels (0-3) colored by flourosopy (integer)}
 #'   \item{Thal}{Thal condition (character)}
 #'   \item{AHD}{Atherosclerosis Heart Disease condition (character)}

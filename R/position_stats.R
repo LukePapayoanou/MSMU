@@ -22,6 +22,8 @@
 #'   \item{quart}{Numeric vector of quartiles (0%, 25%, 50%, 75%, 100%)}
 #' }
 #'
+#' @importFrom stats quantile
+#'
 #' @examples
 #' # Position stats of random data
 #' set.seed(123)

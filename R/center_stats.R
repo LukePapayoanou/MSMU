@@ -15,6 +15,8 @@
 #'   \item{est_mode}{Estimated mode from `estimate_mode()`}
 #' }
 #'
+#' @importFrom stats median
+#'
 #' @seealso \code{\link{estimate_mode}}
 #'
 #' @examples

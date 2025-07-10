@@ -22,6 +22,8 @@
 #'
 #' @return A single numeric value representing the kurtosis
 #'
+#' @importFrom stats sd
+#'
 #' @examples
 #' # Kurtosis of mpg in mtcars
 #' data("mtcars")

@@ -13,7 +13,7 @@
 #'   \item{m_Terrace}{Males living in Terrace (integer)}
 #'   \item{m_Powell}{Males living in Powell (integer)}
 #'   \item{m_Towers}{Males living in the Towers (integer)}
-#'   \item{f_pangborn}{Females living in Pangborn (integer)}
+#'   \item{f_Pangborn}{Females living in Pangborn (integer)}
 #'   \item{f_Sheridan}{Females living in Sheridan (integer)}
 #'   \item{f_Terrace}{Females living in Terrace (integer)}
 #'   \item{f_Powell}{Females living in Powell (integer)}

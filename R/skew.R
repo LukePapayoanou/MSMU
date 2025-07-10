@@ -8,6 +8,8 @@
 #'
 #' @return A single numeric value representing the skewness of the distribution.
 #'
+#' @importFrom stats sd
+#'
 #' @examples
 #' # Skew of Sepal Lengths in iris
 #' data("iris")

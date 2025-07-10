@@ -19,6 +19,8 @@
 #'   \item{pct3}{Percent of data within 3 standard deviation from `pct()`}
 #' }
 #'
+#' @importFrom stats sd IQR
+#'
 #' @seealso \code{\link{pct}}
 #'
 #' @examples

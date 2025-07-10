@@ -11,7 +11,7 @@ A data frame with 363 rows and 18 columns:
 \item{State}{State (character)}
 \item{W}{Wins (integer)}
 \item{L}{Loss's (integer)}
-\item{W.L}{Win Loss percentage (numeric)}
+\item{W.L.}{Win Loss percentage (numeric)}
 \item{SRS}{Simple Rating System (numeric)}
 \item{SOS}{Strength of Schedule (numeric)}
 \item{Points.Scored}{Points scored (integer)}

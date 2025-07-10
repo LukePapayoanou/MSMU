@@ -12,7 +12,7 @@ A data frame with 100 rows and 6 columns:
 \item{left}{left (numeric)}
 \item{right}{right (numeric)}
 \item{age}{Person age (numeric)}
-\item{Gender}{Person gender (character)}
+\item{gender}{Person gender (character)}
 }
 }
 \source{

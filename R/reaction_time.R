@@ -11,7 +11,7 @@
 #'   \item{left}{left (numeric)}
 #'   \item{right}{right (numeric)}
 #'   \item{age}{Person age (numeric)}
-#'   \item{Gender}{Person gender (character)}
+#'   \item{gender}{Person gender (character)}
 #' }
 #'
 #' @source Synthetic Data

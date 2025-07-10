@@ -10,6 +10,8 @@
 #' @return A single numeric value representing the percentage (0–100) of values
 #' within the specified range.
 #'
+#' @importFrom stats sd
+#'
 #' @examples
 #' # Percentage of values that fall within 2 sds of the mean in random normal data
 #' set.seed(123)
