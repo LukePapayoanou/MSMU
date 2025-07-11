@@ -18,6 +18,5 @@
 #'
 #' @source Data retrieved from
 #' \href{https://electionlab.mit.edu/data}{MIT Election Data and Science Lab}, 2018,
-#' \href{https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ}{"County Presidential Election Returns 2000-2020”}
-#' with alterations made for educational purposes.
+#' "County Presidential Election Returns 2000-2020” with alterations made for educational purposes.
 "election_2020"

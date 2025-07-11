@@ -11,14 +11,14 @@
 #'   \item{Sex}{Patients Sex (1 = Male, 0 = Female) (integer)}
 #'   \item{ChestPain}{Chest pain type (character)}
 #'   \item{RestBP}{Resting blood pressure (in mm Hg on admission to the hospital) (integer)}
-#'   \item{Chol}{Serum cholestoral in mg/dl (integer)}
+#'   \item{Chol}{Serum cholesterol in mg/dl (integer)}
 #'   \item{Fbs}{fasting blood sugar &gt; 120 mg/dl (1 = true; 0 = false) (integer)}
 #'   \item{RestECG}{Resting electrocardiographic results (integer)}
 #'   \item{MaxHR}{Maximum heart rate achieved (integer)}
 #'   \item{ExAng}{Exercise induced angina (1 = yes; 0 = no) (integer)}
 #'   \item{Oldpeak}{ST depression induced by exercise relative to rest (numeric)}
 #'   \item{Slope}{The slope of the peak exercise ST segment (integer)}
-#'   \item{Ca}{Number of major vessels (0-3) colored by flourosopy (integer)}
+#'   \item{Ca}{Number of major vessels (0-3) colored by fluoroscopy (integer)}
 #'   \item{Thal}{Thal condition (character)}
 #'   \item{AHD}{Atherosclerosis Heart Disease condition (character)}
 #' }
