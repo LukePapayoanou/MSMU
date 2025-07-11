@@ -28,8 +28,7 @@ A data frame with 777 rows and 16 columns:
 \source{
 This dataset was taken from the \href{https://lib.stat.cmu.edu/}{StatLib}
 library which is maintained at Carnegie Mellon University.
-Adapted from the \href{https://rdrr.io/cran/ISLR/man/College.html}{College}
-dataset in the ISLR library with alterations made for educational purposes.
+Adapted from the College data set in the ISLR library with alterations made for educational purposes.
 }
 \usage{
 college_data

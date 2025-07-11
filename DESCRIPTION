@@ -1,6 +1,6 @@
 Package: MSMU
 Title: Descriptive Statistics Functions for Numeric Data
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: c(
     person(given = "Luke", family = "Papayoanou", email = "l.papayoanou@email.msmary.edu", role = "aut"),
     person(given = "Jon", family = "McCurdy", email= "j.r.mccurdy@msmary.edu", role =c("aut", "cre"))

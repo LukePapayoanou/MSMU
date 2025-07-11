@@ -25,8 +25,7 @@
 #'   \item{unemployment_rate}{Unemployment rate (numeric)}
 #' }
 #'
-#' @source Adapted from the
-#' \href{https://rdrr.io/cran/usdata/man/county_complete.html}{county_complete dataset}
+#' @source Adapted from the county_complete data set
 #' in the \href{https://CRAN.R-project.org/package=usdata}{usdata library} with
 #' alterations made for educational purposes.
 "county_data"
